@@ -45,7 +45,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T23:17:38Z",
+            "last_commit": "2026-08-13T04:48:25Z",
             "owner": "quantumlib",
             "repo": "Cirq",
             "stars": 5044
@@ -59,7 +59,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T03:13:14Z",
+            "last_commit": "2026-08-13T05:35:34Z",
             "owner": "PennyLaneAI",
             "repo": "pennylane",
             "stars": 3404
@@ -201,7 +201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:24:34.198Z",
+    "last_updated": "2026-08-13T08:03:13.666Z",
     "original_repository": "desireevl/awesome-quantum-computing",
     "original_repository_sha": "a6911a0393250e62a55ee09d11ca06e1764c357e",
     "enhanced_repository": "enhansome/enhansome-quantum-computing",
