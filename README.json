@@ -28,7 +28,7 @@
             "last_commit": "2023-08-21T20:29:53Z",
             "owner": "Qiskit",
             "repo": "qiskit-tutorials",
-            "stars": 2538
+            "stars": 2539
           }
         }
       ],
@@ -45,10 +45,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T04:48:25Z",
+            "last_commit": "2026-08-13T20:02:34Z",
             "owner": "quantumlib",
             "repo": "Cirq",
-            "stars": 5044
+            "stars": 5045
           }
         },
         {
@@ -59,10 +59,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T05:35:34Z",
+            "last_commit": "2026-08-14T05:35:08Z",
             "owner": "PennyLaneAI",
             "repo": "pennylane",
-            "stars": 3404
+            "stars": 3406
           }
         },
         {
@@ -76,7 +76,7 @@
             "last_commit": "2026-07-29T23:18:38Z",
             "owner": "rigetti",
             "repo": "pyquil",
-            "stars": 1496
+            "stars": 1497
           }
         },
         {
@@ -104,7 +104,7 @@
             "last_commit": "2026-07-20T00:15:52Z",
             "owner": "softwareQinc",
             "repo": "qpp",
-            "stars": 671
+            "stars": 672
           }
         },
         {
@@ -129,7 +129,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-21T07:48:22Z",
+            "last_commit": "2026-08-13T10:29:53Z",
             "owner": "tequilahub",
             "repo": "tequila",
             "stars": 435
@@ -201,7 +201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T08:03:13.666Z",
+    "last_updated": "2026-08-14T07:59:17.564Z",
     "original_repository": "desireevl/awesome-quantum-computing",
     "original_repository_sha": "a6911a0393250e62a55ee09d11ca06e1764c357e",
     "enhanced_repository": "enhansome/enhansome-quantum-computing",
