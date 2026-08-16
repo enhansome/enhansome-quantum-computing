@@ -20,7 +20,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 * [Podcasts](#podcasts)
 * [Content in Non-English Languages](#content-in-non-english-languages)
 
-For further resources related to Open Source Quantum Software Projects, please check out qosf's [repo](https://github.com/qosf/os_quantum_software) ⭐ 2,372 | 🐛 4 | 📅 2026-08-15.
+For further resources related to Open Source Quantum Software Projects, please check out qosf's [repo](https://github.com/qosf/os_quantum_software) ⭐ 2,375 | 🐛 4 | 📅 2026-08-15.
 
 ## Learning
 
@@ -72,7 +72,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 
 ## Development Tools
 
-* [Cirq](https://github.com/quantumlib/Cirq) ⭐ 5,046 | 🐛 120 | 🌐 Python | 📅 2026-08-14 - Python library for writing, manipulating, and optimizing NISQ circuits to run on quantum computers.
+* [Cirq](https://github.com/quantumlib/Cirq) ⭐ 5,048 | 🐛 119 | 🌐 Python | 📅 2026-08-14 - Python library for writing, manipulating, and optimizing NISQ circuits to run on quantum computers.
 * [PennyLane](http://github.com/XanaduAI/pennylane) ⭐ 3,413 | 🐛 440 | 🌐 Python | 📅 2026-08-15 - Open source framework for quantum computing and quantum machine learning that integrates various other platforms.
 * [pyQuil](https://github.com/rigetticomputing/pyquil) ⭐ 1,497 | 🐛 244 | 🌐 Python | 📅 2026-07-29 - Python library for quantum programming using Quil by Rigetti.
 * [Covalent](https://github.com/AgnostiqHQ/covalent) ⭐ 867 | 🐛 100 | 🌐 Python | 📅 2026-08-10 - Framework for distributed computing on heterogeneous infrastructure from CPUs to GPUs to quantum computers.
@@ -196,4 +196,4 @@ To the extent possible under law, [Desiree Vogt-Lee](https://github.com/desireev
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
