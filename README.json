@@ -14,7 +14,7 @@
             "last_commit": "2024-08-21T18:51:07Z",
             "owner": "microsoft",
             "repo": "QuantumKatas",
-            "stars": 4907
+            "stars": 4908
           }
         },
         {
@@ -48,7 +48,7 @@
             "last_commit": "2026-08-14T14:24:38Z",
             "owner": "quantumlib",
             "repo": "Cirq",
-            "stars": 5049
+            "stars": 5050
           }
         },
         {
@@ -59,10 +59,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T04:05:41Z",
+            "last_commit": "2026-08-18T05:12:03Z",
             "owner": "PennyLaneAI",
             "repo": "pennylane",
-            "stars": 3418
+            "stars": 3419
           }
         },
         {
@@ -73,7 +73,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-29T23:18:38Z",
+            "last_commit": "2026-08-17T14:36:22Z",
             "owner": "rigetti",
             "repo": "pyquil",
             "stars": 1497
@@ -87,7 +87,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T17:07:51Z",
+            "last_commit": "2026-08-17T17:10:19Z",
             "owner": "AgnostiqHQ",
             "repo": "covalent",
             "stars": 867
@@ -104,7 +104,7 @@
             "last_commit": "2026-07-20T00:15:52Z",
             "owner": "softwareQinc",
             "repo": "qpp",
-            "stars": 672
+            "stars": 673
           }
         },
         {
@@ -201,7 +201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T07:36:02.450Z",
+    "last_updated": "2026-08-18T07:22:29.719Z",
     "original_repository": "desireevl/awesome-quantum-computing",
     "original_repository_sha": "a6911a0393250e62a55ee09d11ca06e1764c357e",
     "enhanced_repository": "enhansome/enhansome-quantum-computing",
