@@ -20,7 +20,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 * [Podcasts](#podcasts)
 * [Content in Non-English Languages](#content-in-non-english-languages)
 
-For further resources related to Open Source Quantum Software Projects, please check out qosf's [repo](https://github.com/qosf/os_quantum_software) ⭐ 2,378 | 🐛 6 | 📅 2026-08-15.
+For further resources related to Open Source Quantum Software Projects, please check out qosf's [repo](https://github.com/qosf/os_quantum_software) ⭐ 2,379 | 🐛 5 | 📅 2026-08-19.
 
 ## Learning
 
@@ -72,9 +72,9 @@ For further resources related to Open Source Quantum Software Projects, please c
 
 ## Development Tools
 
-* [Cirq](https://github.com/quantumlib/Cirq) ⭐ 5,050 | 🐛 119 | 🌐 Python | 📅 2026-08-14 - Python library for writing, manipulating, and optimizing NISQ circuits to run on quantum computers.
-* [PennyLane](http://github.com/XanaduAI/pennylane) ⭐ 3,419 | 🐛 440 | 🌐 Python | 📅 2026-08-18 - Open source framework for quantum computing and quantum machine learning that integrates various other platforms.
-* [pyQuil](https://github.com/rigetticomputing/pyquil) ⭐ 1,497 | 🐛 244 | 🌐 Python | 📅 2026-08-17 - Python library for quantum programming using Quil by Rigetti.
+* [Cirq](https://github.com/quantumlib/Cirq) ⭐ 5,050 | 🐛 120 | 🌐 Python | 📅 2026-08-19 - Python library for writing, manipulating, and optimizing NISQ circuits to run on quantum computers.
+* [PennyLane](http://github.com/XanaduAI/pennylane) ⭐ 3,423 | 🐛 437 | 🌐 Python | 📅 2026-08-19 - Open source framework for quantum computing and quantum machine learning that integrates various other platforms.
+* [pyQuil](https://github.com/rigetticomputing/pyquil) ⭐ 1,497 | 🐛 242 | 🌐 Python | 📅 2026-08-18 - Python library for quantum programming using Quil by Rigetti.
 * [Covalent](https://github.com/AgnostiqHQ/covalent) ⭐ 867 | 🐛 100 | 🌐 Python | 📅 2026-08-17 - Framework for distributed computing on heterogeneous infrastructure from CPUs to GPUs to quantum computers.
 * [Quantum++](https://github.com/vsoftco/qpp) ⭐ 673 | 🐛 2 | 🌐 C++ | 📅 2026-07-20 - High performance modern C++11 quantum computing library.
 * [Paddle Quantum](https://github.com/PaddlePaddle/Quantum) ⭐ 646 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2023-04-24 - Baidu's python toolkit for quantum machine learning.
@@ -196,4 +196,4 @@ To the extent possible under law, [Desiree Vogt-Lee](https://github.com/desireev
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._

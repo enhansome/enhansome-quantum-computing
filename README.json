@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 136380207,
             "language": "Jupyter Notebook",
             "last_commit": "2024-08-21T18:51:07Z",
             "owner": "microsoft",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 99244384,
             "language": "Jupyter Notebook",
             "last_commit": "2023-08-21T20:29:53Z",
             "owner": "Qiskit",
@@ -35,7 +37,7 @@
       "title": "Learning"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -44,8 +46,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 114306758,
             "language": "Python",
-            "last_commit": "2026-08-14T14:24:38Z",
+            "last_commit": "2026-08-19T03:56:18Z",
             "owner": "quantumlib",
             "repo": "Cirq",
             "stars": 5050
@@ -58,11 +61,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 129936360,
             "language": "Python",
-            "last_commit": "2026-08-18T05:12:03Z",
+            "last_commit": "2026-08-19T05:12:32Z",
             "owner": "PennyLaneAI",
             "repo": "pennylane",
-            "stars": 3419
+            "stars": 3423
           }
         },
         {
@@ -72,8 +76,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78470807,
             "language": "Python",
-            "last_commit": "2026-08-17T14:36:22Z",
+            "last_commit": "2026-08-18T23:40:18Z",
             "owner": "rigetti",
             "repo": "pyquil",
             "stars": 1497
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 424247027,
             "language": "Python",
             "last_commit": "2026-08-17T17:10:19Z",
             "owner": "AgnostiqHQ",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17992615,
             "language": "C++",
             "last_commit": "2026-07-20T00:15:52Z",
             "owner": "softwareQinc",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 264782838,
             "language": "Jupyter Notebook",
             "last_commit": "2023-04-24T14:00:48Z",
             "owner": "PaddlePaddle",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 259718912,
             "language": "Python",
             "last_commit": "2026-08-13T10:29:53Z",
             "owner": "tequilahub",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 143221277,
             "language": "Python",
             "last_commit": "2026-08-02T02:59:41Z",
             "owner": "blueqat",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 111528134,
             "language": "JavaScript",
             "last_commit": "2019-09-08T16:19:40Z",
             "owner": "qiskit-community",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 140126542,
             "language": null,
             "last_commit": "2019-03-14T02:16:08Z",
             "owner": "QuantumAI-lib",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 141371229,
             "language": "TeX",
             "last_commit": "2020-01-28T01:45:10Z",
             "owner": "LSaldyt",
@@ -193,15 +206,10 @@
         }
       ],
       "title": "Development Tools"
-    },
-    {
-      "description": "To the extent possible under law, Desiree Vogt-Lee has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T07:22:29.719Z",
+    "last_updated": "2026-08-19T07:22:58.188Z",
     "original_repository": "desireevl/awesome-quantum-computing",
     "original_repository_sha": "a6911a0393250e62a55ee09d11ca06e1764c357e",
     "enhanced_repository": "enhansome/enhansome-quantum-computing",
