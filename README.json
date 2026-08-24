@@ -63,10 +63,10 @@
             "archived": false,
             "id": 129936360,
             "language": "Python",
-            "last_commit": "2026-08-23T19:08:42Z",
+            "last_commit": "2026-08-24T14:00:10Z",
             "owner": "PennyLaneAI",
             "repo": "pennylane",
-            "stars": 3433
+            "stars": 3435
           }
         },
         {
@@ -209,7 +209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T07:41:39.150Z",
+    "last_updated": "2026-08-24T14:00:46.272Z",
     "original_repository": "desireevl/awesome-quantum-computing",
     "original_repository_id": 118592594,
     "original_repository_sha": "a6911a0393250e62a55ee09d11ca06e1764c357e",
