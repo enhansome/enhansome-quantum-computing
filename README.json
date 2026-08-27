@@ -48,7 +48,7 @@
             "archived": false,
             "id": 114306758,
             "language": "Python",
-            "last_commit": "2026-08-25T20:31:05Z",
+            "last_commit": "2026-08-27T05:44:19Z",
             "owner": "quantumlib",
             "repo": "Cirq",
             "stars": 5053
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 129936360,
             "language": "Python",
-            "last_commit": "2026-08-26T05:13:59Z",
+            "last_commit": "2026-08-27T11:38:36Z",
             "owner": "PennyLaneAI",
             "repo": "pennylane",
-            "stars": 3439
+            "stars": 3441
           }
         },
         {
@@ -209,9 +209,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T07:28:59.359Z",
-    "original_repository": "desireevl/awesome-quantum-computing",
-    "original_repository_id": 118592594,
+    "last_updated": "2026-08-27T12:06:02.765Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 118592594,
+      "language": null,
+      "last_commit": "2024-07-24T23:26:58Z",
+      "owner": "desireevl",
+      "repo": "awesome-quantum-computing",
+      "stars": 3262
+    },
     "original_repository_sha": "a6911a0393250e62a55ee09d11ca06e1764c357e",
     "enhanced_repository": "enhansome/enhansome-quantum-computing",
     "enhanced_repository_description": null,
