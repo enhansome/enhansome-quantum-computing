@@ -51,7 +51,7 @@
             "last_commit": "2026-08-27T05:44:19Z",
             "owner": "quantumlib",
             "repo": "Cirq",
-            "stars": 5053
+            "stars": 5054
           }
         },
         {
@@ -63,7 +63,7 @@
             "archived": false,
             "id": 129936360,
             "language": "Python",
-            "last_commit": "2026-08-27T11:38:36Z",
+            "last_commit": "2026-08-27T17:36:38Z",
             "owner": "PennyLaneAI",
             "repo": "pennylane",
             "stars": 3441
@@ -209,7 +209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:06:02.765Z",
+    "last_updated": "2026-08-27T17:52:29.992Z",
     "original_repository_info": {
       "archived": false,
       "id": 118592594,
