@@ -16,7 +16,8 @@
             "owner": "microsoft",
             "repo": "QuantumKatas",
             "stars": 4909
-          }
+          },
+          "first_seen": "2026-08-28T18:58:34.360Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "Qiskit",
             "repo": "qiskit-tutorials",
             "stars": 2541
-          }
+          },
+          "first_seen": "2026-08-28T18:58:34.360Z"
         }
       ],
       "title": "Learning"
@@ -48,11 +50,12 @@
             "archived": false,
             "id": 114306758,
             "language": "Python",
-            "last_commit": "2026-08-27T05:44:19Z",
+            "last_commit": "2026-08-28T00:20:10Z",
             "owner": "quantumlib",
             "repo": "Cirq",
-            "stars": 5054
-          }
+            "stars": 5055
+          },
+          "first_seen": "2026-08-28T18:58:34.360Z"
         },
         {
           "node_type": "item",
@@ -63,11 +66,12 @@
             "archived": false,
             "id": 129936360,
             "language": "Python",
-            "last_commit": "2026-08-27T17:36:38Z",
+            "last_commit": "2026-08-28T18:58:17Z",
             "owner": "PennyLaneAI",
             "repo": "pennylane",
-            "stars": 3441
-          }
+            "stars": 3440
+          },
+          "first_seen": "2026-08-28T18:58:34.360Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "rigetti",
             "repo": "pyquil",
             "stars": 1497
-          }
+          },
+          "first_seen": "2026-08-28T18:58:34.360Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "AgnostiqHQ",
             "repo": "covalent",
             "stars": 869
-          }
+          },
+          "first_seen": "2026-08-28T18:58:34.360Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "softwareQinc",
             "repo": "qpp",
             "stars": 674
-          }
+          },
+          "first_seen": "2026-08-28T18:58:34.360Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "PaddlePaddle",
             "repo": "Quantum",
             "stars": 646
-          }
+          },
+          "first_seen": "2026-08-28T18:58:34.360Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "tequilahub",
             "repo": "tequila",
             "stars": 438
-          }
+          },
+          "first_seen": "2026-08-28T18:58:34.360Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "blueqat",
             "repo": "blueqatSDK",
             "stars": 387
-          }
+          },
+          "first_seen": "2026-08-28T18:58:34.360Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "qiskit-community",
             "repo": "qiskit-js",
             "stars": 116
-          }
+          },
+          "first_seen": "2026-08-28T18:58:34.360Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "QuantumAI-lib",
             "repo": "NISQAI",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T18:58:34.360Z"
         },
         {
           "node_type": "item",
@@ -202,14 +214,15 @@
             "owner": "LSaldyt",
             "repo": "Qurry",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T18:58:34.360Z"
         }
       ],
       "title": "Development Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T17:52:29.992Z",
+    "last_updated": "2026-08-28T18:58:34.360Z",
     "original_repository_info": {
       "archived": false,
       "id": 118592594,
