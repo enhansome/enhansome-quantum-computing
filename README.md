@@ -79,7 +79,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 * [Quantum++](https://github.com/vsoftco/qpp) ⭐ 674 | 🐛 2 | 🌐 C++ | 📅 2026-07-20 - High performance modern C++11 quantum computing library.
 * [Paddle Quantum](https://github.com/PaddlePaddle/Quantum) ⭐ 646 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2023-04-24 - Baidu's python toolkit for quantum machine learning.
 * [Tequila](https://github.com/aspuru-guzik-group/tequila) ⭐ 438 | 🐛 5 | 🌐 Python | 📅 2026-08-13 - An Extensible Quantum Information and Learning Architecture developed by Alan Aspuru-Guzik group (University of Toronto).
-* [Blueqat](https://github.com/Blueqat/Blueqat) ⭐ 387 | 🐛 0 | 🌐 Python | 📅 2026-08-02 - Software development kit in Python for quantum gate computing.
+* [Blueqat](https://github.com/Blueqat/Blueqat) ⭐ 387 | 🐛 0 | 🌐 Python | 📅 2026-08-29 - Software development kit in Python for quantum gate computing.
 * [Qiskit.js](https://github.com/QISKit/qiskit-js) ⚠️ Archived - Qiskit for JavaScript made by IBM.
 * [NISQAI](https://github.com/quantumai-lib/nisqai) ⭐ 44 | 🐛 1 | 📅 2019-03-14 - Library for performing quantum artificial intelligence on near-term quantum computers.
 * [Qurry](https://github.com/LSaldyt/Qurry) ⭐ 31 | 🐛 22 | 🌐 TeX | 📅 2020-01-28 - Quantum probabilistic programming language based on functional and probabilistic paradigms.

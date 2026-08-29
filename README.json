@@ -48,7 +48,7 @@
             "open_issues": 0,
             "owner": "Qiskit",
             "repo": "qiskit-tutorials",
-            "stars": 2541,
+            "stars": 2540,
             "topics": [
               "qiskit",
               "quantum-computing",
@@ -118,7 +118,7 @@
             "id": 129936360,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T03:16:05Z",
+            "last_commit": "2026-08-29T05:15:26Z",
             "open_issues": 429,
             "owner": "PennyLaneAI",
             "repo": "pennylane",
@@ -298,7 +298,7 @@
             "id": 143221277,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-02T02:59:41Z",
+            "last_commit": "2026-08-29T08:44:15Z",
             "open_issues": 0,
             "owner": "blueqat",
             "repo": "blueqatSDK",
@@ -383,7 +383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:23:23.935Z",
+    "last_updated": "2026-08-29T12:48:50.893Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome quantum computing learning and developing resources.",
@@ -395,7 +395,7 @@
       "open_issues": 29,
       "owner": "desireevl",
       "repo": "awesome-quantum-computing",
-      "stars": 3262,
+      "stars": 3261,
       "topics": [
         "awesome",
         "awesome-list",
