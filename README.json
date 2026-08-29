@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Tutorials and programming exercises for learning Q# and quantum computing",
+            "homepage": null,
             "id": 136380207,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-08-21T18:51:07Z",
+            "open_issues": 22,
             "owner": "microsoft",
             "repo": "QuantumKatas",
-            "stars": 4909
+            "stars": 4909,
+            "topics": [
+              "coding-kata",
+              "hacktoberfest",
+              "qsharp",
+              "quantum-computing",
+              "quantum-programming",
+              "tutorial-exercises",
+              "tutorials"
+            ]
           },
           "first_seen": "2026-08-28T18:58:34.360Z"
         },
@@ -26,12 +39,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A collection of Jupyter notebooks showing how to use the Qiskit SDK",
+            "homepage": null,
             "id": 99244384,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2023-08-21T20:29:53Z",
+            "open_issues": 0,
             "owner": "Qiskit",
             "repo": "qiskit-tutorials",
-            "stars": 2541
+            "stars": 2541,
+            "topics": [
+              "qiskit",
+              "quantum-computing",
+              "quantum-programming-language",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T18:58:34.360Z"
         }
@@ -48,12 +71,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python framework for creating, editing, and running Noisy Intermediate-Scale Quantum (NISQ) circuits.",
+            "homepage": "https://quantumai.google/cirq",
             "id": 114306758,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T00:20:10Z",
+            "open_issues": 110,
             "owner": "quantumlib",
             "repo": "Cirq",
-            "stars": 5055
+            "stars": 5055,
+            "topics": [
+              "algorithms",
+              "api",
+              "cirq",
+              "google",
+              "google-quantum",
+              "nisq",
+              "python",
+              "quantum",
+              "quantum-algorithms",
+              "quantum-circuit",
+              "quantum-circuit-simulator",
+              "quantum-computer-simulator",
+              "quantum-computing",
+              "quantum-development-kit",
+              "quantum-information",
+              "quantum-programming",
+              "quantum-programming-language",
+              "quantum-simulation",
+              "sdk",
+              "simulation"
+            ]
           },
           "first_seen": "2026-08-28T18:58:34.360Z"
         },
@@ -64,12 +113,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PennyLane is an open-source quantum software platform for quantum computing, quantum machine learning, and quantum chemistry. Create meaningful quantum algorithms, from inspiration to implementation.",
+            "homepage": "https://pennylane.ai",
             "id": 129936360,
             "language": "Python",
-            "last_commit": "2026-08-28T18:58:17Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:16:05Z",
+            "open_issues": 429,
             "owner": "PennyLaneAI",
             "repo": "pennylane",
-            "stars": 3440
+            "stars": 3442,
+            "topics": [
+              "autograd",
+              "automatic-differentiation",
+              "cirq",
+              "deep-learning",
+              "differentiable-computing",
+              "jax",
+              "machine-learning",
+              "neural-network",
+              "optimization",
+              "python",
+              "pytorch",
+              "qiskit",
+              "qml",
+              "quantum",
+              "quantum-chemistry",
+              "quantum-computing",
+              "quantum-machine-learning",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T18:58:34.360Z"
         },
@@ -80,12 +153,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python library for quantum programming using Quil.",
+            "homepage": "http://docs.rigetti.com",
             "id": 78470807,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-20T11:45:41Z",
+            "open_issues": 242,
             "owner": "rigetti",
             "repo": "pyquil",
-            "stars": 1497
+            "stars": 1497,
+            "topics": [
+              "forest",
+              "quantum-computing",
+              "quantum-programming",
+              "quil"
+            ]
           },
           "first_seen": "2026-08-28T18:58:34.360Z"
         },
@@ -96,12 +179,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pythonic tool for orchestrating machine-learning/high performance/quantum-computing workflows in heterogeneous compute environments.",
+            "homepage": "https://www.covalent.xyz",
             "id": 424247027,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-17T17:10:19Z",
+            "open_issues": 103,
             "owner": "AgnostiqHQ",
             "repo": "covalent",
-            "stars": 869
+            "stars": 869,
+            "topics": [
+              "covalent",
+              "data-pipeline",
+              "data-science",
+              "deep-learning",
+              "hacktoberfest",
+              "hpc",
+              "hpc-applications",
+              "machine-learning",
+              "machinelearning",
+              "machinelearning-python",
+              "orchestration",
+              "parallelization",
+              "pipelines",
+              "python",
+              "quantum",
+              "quantum-computing",
+              "quantum-machine-learning",
+              "workflow",
+              "workflow-automation",
+              "workflow-management"
+            ]
           },
           "first_seen": "2026-08-28T18:58:34.360Z"
         },
@@ -112,12 +221,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modern C++ quantum computing library",
+            "homepage": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0208073",
             "id": 17992615,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-07-20T00:15:52Z",
+            "open_issues": 2,
             "owner": "softwareQinc",
             "repo": "qpp",
-            "stars": 674
+            "stars": 674,
+            "topics": [
+              "c-plus-plus",
+              "cpp",
+              "cpp11",
+              "cpp17",
+              "quantum",
+              "quantum-computing",
+              "quantum-development-kit",
+              "simulator"
+            ]
           },
           "first_seen": "2026-08-28T18:58:34.360Z"
         },
@@ -128,12 +251,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 264782838,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2023-04-24T14:00:48Z",
+            "open_issues": 29,
             "owner": "PaddlePaddle",
             "repo": "Quantum",
-            "stars": 646
+            "stars": 646,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:34.360Z"
         },
@@ -144,12 +272,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A High-Level Abstraction Framework for Quantum Algorithms",
+            "homepage": null,
             "id": 259718912,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-13T10:29:53Z",
+            "open_issues": 5,
             "owner": "tequilahub",
             "repo": "tequila",
-            "stars": 438
+            "stars": 438,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:34.360Z"
         },
@@ -160,12 +293,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quantum Computer Library for Everyone",
+            "homepage": null,
             "id": 143221277,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-02T02:59:41Z",
+            "open_issues": 0,
             "owner": "blueqat",
             "repo": "blueqatSDK",
-            "stars": 387
+            "stars": 387,
+            "topics": [
+              "python",
+              "quantum",
+              "quantum-algorithms",
+              "quantum-computer-simulator",
+              "quantum-computing",
+              "quantum-information",
+              "quantum-programming-language"
+            ]
           },
           "first_seen": "2026-08-28T18:58:34.360Z"
         },
@@ -176,12 +322,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":atom_symbol: Qiskit (Quantum Information Science Kit) for JavaScript",
+            "homepage": null,
             "id": 111528134,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-09-08T16:19:40Z",
+            "open_issues": 20,
             "owner": "qiskit-community",
             "repo": "qiskit-js",
-            "stars": 116
+            "stars": 116,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:34.360Z"
         },
@@ -192,12 +343,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python toolkit for quantum neural networks.",
+            "homepage": null,
             "id": 140126542,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2019-03-14T02:16:08Z",
+            "open_issues": 1,
             "owner": "QuantumAI-lib",
             "repo": "NISQAI",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:34.360Z"
         },
@@ -208,12 +364,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Qurry (was) a prototype for a functional quantum programming language. It incorporated many aspects of functional programming (Haskell, Clojure), but also took standard design philosophies from C++, Python, and other \"traditional\" languages. [category: quantum]",
+            "homepage": null,
             "id": 141371229,
             "language": "TeX",
+            "license": "MIT",
             "last_commit": "2020-01-28T01:45:10Z",
+            "open_issues": 22,
             "owner": "LSaldyt",
             "repo": "Qurry",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:58:34.360Z"
         }
@@ -222,15 +383,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T18:58:34.360Z",
+    "last_updated": "2026-08-29T04:23:23.935Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome quantum computing learning and developing resources.",
+      "homepage": null,
       "id": 118592594,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2024-07-24T23:26:58Z",
+      "open_issues": 29,
       "owner": "desireevl",
       "repo": "awesome-quantum-computing",
-      "stars": 3262
+      "stars": 3262,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "quantum",
+        "quantum-computing"
+      ]
     },
     "original_repository_sha": "a6911a0393250e62a55ee09d11ca06e1764c357e",
     "enhanced_repository": "enhansome/enhansome-quantum-computing",
