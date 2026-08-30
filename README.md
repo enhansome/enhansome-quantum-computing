@@ -72,8 +72,8 @@ For further resources related to Open Source Quantum Software Projects, please c
 
 ## Development Tools
 
-* [Cirq](https://github.com/quantumlib/Cirq) ⭐ 5,055 | 🐛 110 | 🌐 Python | 📅 2026-08-28 - Python library for writing, manipulating, and optimizing NISQ circuits to run on quantum computers.
-* [PennyLane](http://github.com/XanaduAI/pennylane) ⭐ 3,442 | 🐛 429 | 🌐 Python | 📅 2026-08-29 - Open source framework for quantum computing and quantum machine learning that integrates various other platforms.
+* [Cirq](https://github.com/quantumlib/Cirq) ⭐ 5,055 | 🐛 111 | 🌐 Python | 📅 2026-08-28 - Python library for writing, manipulating, and optimizing NISQ circuits to run on quantum computers.
+* [PennyLane](http://github.com/XanaduAI/pennylane) ⭐ 3,443 | 🐛 429 | 🌐 Python | 📅 2026-08-29 - Open source framework for quantum computing and quantum machine learning that integrates various other platforms.
 * [pyQuil](https://github.com/rigetticomputing/pyquil) ⭐ 1,497 | 🐛 242 | 🌐 Python | 📅 2026-08-20 - Python library for quantum programming using Quil by Rigetti.
 * [Covalent](https://github.com/AgnostiqHQ/covalent) ⭐ 869 | 🐛 103 | 🌐 Python | 📅 2026-08-17 - Framework for distributed computing on heterogeneous infrastructure from CPUs to GPUs to quantum computers.
 * [Quantum++](https://github.com/vsoftco/qpp) ⭐ 674 | 🐛 2 | 🌐 C++ | 📅 2026-07-20 - High performance modern C++11 quantum computing library.
@@ -196,4 +196,4 @@ To the extent possible under law, [Desiree Vogt-Lee](https://github.com/desireev
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
