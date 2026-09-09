@@ -19,7 +19,7 @@
             "open_issues": 22,
             "owner": "microsoft",
             "repo": "QuantumKatas",
-            "stars": 4908,
+            "stars": 4910,
             "topics": [
               "coding-kata",
               "hacktoberfest",
@@ -76,11 +76,11 @@
             "id": 114306758,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T21:54:03Z",
+            "last_commit": "2026-09-08T23:47:12Z",
             "open_issues": 108,
             "owner": "quantumlib",
             "repo": "Cirq",
-            "stars": 5056,
+            "stars": 5058,
             "topics": [
               "algorithms",
               "api",
@@ -118,11 +118,11 @@
             "id": 129936360,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T11:23:07Z",
-            "open_issues": 435,
+            "last_commit": "2026-09-09T11:32:27Z",
+            "open_issues": 440,
             "owner": "PennyLaneAI",
             "repo": "pennylane",
-            "stars": 3452,
+            "stars": 3454,
             "topics": [
               "autograd",
               "automatic-differentiation",
@@ -158,8 +158,8 @@
             "id": 78470807,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T18:40:12Z",
-            "open_issues": 242,
+            "last_commit": "2026-09-08T23:44:05Z",
+            "open_issues": 243,
             "owner": "rigetti",
             "repo": "pyquil",
             "stars": 1497,
@@ -383,7 +383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T11:41:14.756Z",
+    "last_updated": "2026-09-09T11:47:20.378Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome quantum computing learning and developing resources.",
@@ -395,7 +395,7 @@
       "open_issues": 30,
       "owner": "desireevl",
       "repo": "awesome-quantum-computing",
-      "stars": 3265,
+      "stars": 3267,
       "topics": [
         "awesome",
         "awesome-list",
