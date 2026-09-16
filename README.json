@@ -19,7 +19,7 @@
             "open_issues": 22,
             "owner": "microsoft",
             "repo": "QuantumKatas",
-            "stars": 4911,
+            "stars": 4910,
             "topics": [
               "coding-kata",
               "hacktoberfest",
@@ -76,8 +76,8 @@
             "id": 114306758,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T18:02:34Z",
-            "open_issues": 109,
+            "last_commit": "2026-09-15T18:53:37Z",
+            "open_issues": 123,
             "owner": "quantumlib",
             "repo": "Cirq",
             "stars": 5061,
@@ -118,8 +118,8 @@
             "id": 129936360,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T10:55:12Z",
-            "open_issues": 437,
+            "last_commit": "2026-09-16T09:38:38Z",
+            "open_issues": 435,
             "owner": "PennyLaneAI",
             "repo": "pennylane",
             "stars": 3465,
@@ -383,7 +383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T12:02:31.632Z",
+    "last_updated": "2026-09-16T11:58:40.447Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome quantum computing learning and developing resources.",
@@ -395,7 +395,7 @@
       "open_issues": 30,
       "owner": "desireevl",
       "repo": "awesome-quantum-computing",
-      "stars": 3271,
+      "stars": 3272,
       "topics": [
         "awesome",
         "awesome-list",
