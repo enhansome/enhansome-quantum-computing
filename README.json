@@ -77,10 +77,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-18T23:37:10Z",
-            "open_issues": 125,
+            "open_issues": 126,
             "owner": "quantumlib",
             "repo": "Cirq",
-            "stars": 5062,
+            "stars": 5064,
             "topics": [
               "algorithms",
               "api",
@@ -118,11 +118,11 @@
             "id": 129936360,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-20T03:29:52Z",
-            "open_issues": 440,
+            "last_commit": "2026-09-21T12:20:46Z",
+            "open_issues": 444,
             "owner": "PennyLaneAI",
             "repo": "pennylane",
-            "stars": 3472,
+            "stars": 3473,
             "topics": [
               "autograd",
               "automatic-differentiation",
@@ -277,8 +277,8 @@
             "id": 259718912,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-18T10:37:17Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-21T12:37:29Z",
+            "open_issues": 4,
             "owner": "tequilahub",
             "repo": "tequila",
             "stars": 441,
@@ -383,7 +383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T11:45:24.819Z",
+    "last_updated": "2026-09-21T13:16:16.927Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome quantum computing learning and developing resources.",
