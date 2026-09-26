@@ -76,11 +76,11 @@
             "id": 114306758,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T21:14:24Z",
-            "open_issues": 126,
+            "last_commit": "2026-09-25T21:06:10Z",
+            "open_issues": 127,
             "owner": "quantumlib",
             "repo": "Cirq",
-            "stars": 5070,
+            "stars": 5071,
             "topics": [
               "algorithms",
               "api",
@@ -118,8 +118,8 @@
             "id": 129936360,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T05:18:44Z",
-            "open_issues": 445,
+            "last_commit": "2026-09-26T11:42:16Z",
+            "open_issues": 448,
             "owner": "PennyLaneAI",
             "repo": "pennylane",
             "stars": 3475,
@@ -281,7 +281,7 @@
             "open_issues": 4,
             "owner": "tequilahub",
             "repo": "tequila",
-            "stars": 441,
+            "stars": 442,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:34.360Z"
@@ -383,7 +383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T12:07:46.817Z",
+    "last_updated": "2026-09-26T11:43:12.527Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome quantum computing learning and developing resources.",
@@ -395,7 +395,7 @@
       "open_issues": 30,
       "owner": "desireevl",
       "repo": "awesome-quantum-computing",
-      "stars": 3277,
+      "stars": 3276,
       "topics": [
         "awesome",
         "awesome-list",
