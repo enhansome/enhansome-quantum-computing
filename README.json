@@ -48,7 +48,7 @@
             "open_issues": 0,
             "owner": "Qiskit",
             "repo": "qiskit-tutorials",
-            "stars": 2539,
+            "stars": 2540,
             "topics": [
               "qiskit",
               "quantum-computing",
@@ -76,11 +76,11 @@
             "id": 114306758,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-28T03:28:01Z",
+            "last_commit": "2026-09-28T17:32:18Z",
             "open_issues": 131,
             "owner": "quantumlib",
             "repo": "Cirq",
-            "stars": 5075,
+            "stars": 5074,
             "topics": [
               "algorithms",
               "api",
@@ -118,11 +118,11 @@
             "id": 129936360,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-28T14:20:33Z",
-            "open_issues": 445,
+            "last_commit": "2026-09-29T12:59:38Z",
+            "open_issues": 448,
             "owner": "PennyLaneAI",
             "repo": "pennylane",
-            "stars": 3478,
+            "stars": 3479,
             "topics": [
               "autograd",
               "automatic-differentiation",
@@ -184,7 +184,7 @@
             "id": 424247027,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T17:12:26Z",
+            "last_commit": "2026-09-28T17:13:38Z",
             "open_issues": 103,
             "owner": "AgnostiqHQ",
             "repo": "covalent",
@@ -281,7 +281,7 @@
             "open_issues": 4,
             "owner": "tequilahub",
             "repo": "tequila",
-            "stars": 442,
+            "stars": 441,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:34.360Z"
@@ -383,7 +383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T14:23:48.469Z",
+    "last_updated": "2026-09-29T13:16:16.660Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome quantum computing learning and developing resources.",
