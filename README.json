@@ -76,11 +76,11 @@
             "id": 114306758,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T00:39:37Z",
+            "last_commit": "2026-10-01T17:30:29Z",
             "open_issues": 127,
             "owner": "quantumlib",
             "repo": "Cirq",
-            "stars": 5077,
+            "stars": 5076,
             "topics": [
               "algorithms",
               "api",
@@ -118,8 +118,8 @@
             "id": 129936360,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T13:48:21Z",
-            "open_issues": 455,
+            "last_commit": "2026-10-02T08:09:25Z",
+            "open_issues": 452,
             "owner": "PennyLaneAI",
             "repo": "pennylane",
             "stars": 3482,
@@ -162,7 +162,7 @@
             "open_issues": 240,
             "owner": "rigetti",
             "repo": "pyquil",
-            "stars": 1498,
+            "stars": 1500,
             "topics": [
               "forest",
               "quantum-computing",
@@ -278,7 +278,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-28T12:26:10Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "tequilahub",
             "repo": "tequila",
             "stars": 442,
@@ -383,7 +383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T13:49:55.153Z",
+    "last_updated": "2026-10-02T13:05:16.116Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome quantum computing learning and developing resources.",
