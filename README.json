@@ -118,7 +118,7 @@
             "id": 129936360,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T03:33:58Z",
+            "last_commit": "2026-10-03T05:19:16Z",
             "open_issues": 455,
             "owner": "PennyLaneAI",
             "repo": "pennylane",
@@ -162,7 +162,7 @@
             "open_issues": 240,
             "owner": "rigetti",
             "repo": "pyquil",
-            "stars": 1501,
+            "stars": 1502,
             "topics": [
               "forest",
               "quantum-computing",
@@ -383,7 +383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:05:25.665Z",
+    "last_updated": "2026-10-03T11:57:52.291Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome quantum computing learning and developing resources.",

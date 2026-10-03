@@ -74,7 +74,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 
 * [Cirq](https://github.com/quantumlib/Cirq) ⭐ 5,077 | 🐛 123 | 🌐 Python | 📅 2026-10-02 - Python library for writing, manipulating, and optimizing NISQ circuits to run on quantum computers.
 * [PennyLane](http://github.com/XanaduAI/pennylane) ⭐ 3,483 | 🐛 455 | 🌐 Python | 📅 2026-10-03 - Open source framework for quantum computing and quantum machine learning that integrates various other platforms.
-* [pyQuil](https://github.com/rigetticomputing/pyquil) ⭐ 1,501 | 🐛 240 | 🌐 Python | 📅 2026-09-30 - Python library for quantum programming using Quil by Rigetti.
+* [pyQuil](https://github.com/rigetticomputing/pyquil) ⭐ 1,502 | 🐛 240 | 🌐 Python | 📅 2026-09-30 - Python library for quantum programming using Quil by Rigetti.
 * [Covalent](https://github.com/AgnostiqHQ/covalent) ⭐ 868 | 🐛 103 | 🌐 Python | 📅 2026-09-28 - Framework for distributed computing on heterogeneous infrastructure from CPUs to GPUs to quantum computers.
 * [Quantum++](https://github.com/vsoftco/qpp) ⭐ 675 | 🐛 2 | 🌐 C++ | 📅 2026-07-20 - High performance modern C++11 quantum computing library.
 * [Paddle Quantum](https://github.com/PaddlePaddle/Quantum) ⭐ 649 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2023-04-24 - Baidu's python toolkit for quantum machine learning.
