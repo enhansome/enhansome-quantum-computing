@@ -77,7 +77,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-05T17:44:53Z",
-            "open_issues": 123,
+            "open_issues": 125,
             "owner": "quantumlib",
             "repo": "Cirq",
             "stars": 5076,
@@ -118,8 +118,8 @@
             "id": 129936360,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T08:54:46Z",
-            "open_issues": 458,
+            "last_commit": "2026-10-06T13:32:55Z",
+            "open_issues": 457,
             "owner": "PennyLaneAI",
             "repo": "pennylane",
             "stars": 3487,
@@ -383,7 +383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:26:55.302Z",
+    "last_updated": "2026-10-06T13:33:35.197Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome quantum computing learning and developing resources.",
