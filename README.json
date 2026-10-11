@@ -119,10 +119,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-10T05:18:11Z",
-            "open_issues": 455,
+            "open_issues": 456,
             "owner": "PennyLaneAI",
             "repo": "pennylane",
-            "stars": 3489,
+            "stars": 3490,
             "topics": [
               "autograd",
               "automatic-differentiation",
@@ -383,7 +383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T12:59:10.556Z",
+    "last_updated": "2026-10-11T13:25:40.726Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome quantum computing learning and developing resources.",
@@ -395,7 +395,7 @@
       "open_issues": 29,
       "owner": "desireevl",
       "repo": "awesome-quantum-computing",
-      "stars": 3281,
+      "stars": 3282,
       "topics": [
         "awesome",
         "awesome-list",
