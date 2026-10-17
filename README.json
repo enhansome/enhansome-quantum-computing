@@ -19,7 +19,7 @@
             "open_issues": 22,
             "owner": "microsoft",
             "repo": "QuantumKatas",
-            "stars": 4909,
+            "stars": 4910,
             "topics": [
               "coding-kata",
               "hacktoberfest",
@@ -48,7 +48,7 @@
             "open_issues": 0,
             "owner": "Qiskit",
             "repo": "qiskit-tutorials",
-            "stars": 2540,
+            "stars": 2541,
             "topics": [
               "qiskit",
               "quantum-computing",
@@ -76,11 +76,11 @@
             "id": 114306758,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T06:56:51Z",
-            "open_issues": 131,
+            "last_commit": "2026-10-17T06:48:13Z",
+            "open_issues": 134,
             "owner": "quantumlib",
             "repo": "Cirq",
-            "stars": 5082,
+            "stars": 5083,
             "topics": [
               "algorithms",
               "api",
@@ -118,11 +118,11 @@
             "id": 129936360,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T05:17:43Z",
-            "open_issues": 465,
+            "last_commit": "2026-10-17T05:16:03Z",
+            "open_issues": 467,
             "owner": "PennyLaneAI",
             "repo": "pennylane",
-            "stars": 3499,
+            "stars": 3501,
             "topics": [
               "autograd",
               "automatic-differentiation",
@@ -158,8 +158,8 @@
             "id": 78470807,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-15T20:55:43Z",
-            "open_issues": 245,
+            "last_commit": "2026-10-17T07:57:07Z",
+            "open_issues": 246,
             "owner": "rigetti",
             "repo": "pyquil",
             "stars": 1501,
@@ -260,7 +260,7 @@
             "open_issues": 29,
             "owner": "PaddlePaddle",
             "repo": "Quantum",
-            "stars": 648,
+            "stars": 649,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:34.360Z"
@@ -278,7 +278,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-16T09:41:10Z",
-            "open_issues": 5,
+            "open_issues": 4,
             "owner": "tequilahub",
             "repo": "tequila",
             "stars": 443,
@@ -383,7 +383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T11:50:35.087Z",
+    "last_updated": "2026-10-17T11:07:05.472Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome quantum computing learning and developing resources.",
@@ -392,10 +392,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2024-07-24T23:26:58Z",
-      "open_issues": 35,
+      "open_issues": 34,
       "owner": "desireevl",
       "repo": "awesome-quantum-computing",
-      "stars": 3283,
+      "stars": 3284,
       "topics": [
         "awesome",
         "awesome-list",
