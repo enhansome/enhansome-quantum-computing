@@ -76,8 +76,8 @@
             "id": 114306758,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-20T00:39:44Z",
-            "open_issues": 135,
+            "last_commit": "2026-10-21T02:13:22Z",
+            "open_issues": 131,
             "owner": "quantumlib",
             "repo": "Cirq",
             "stars": 5086,
@@ -118,11 +118,11 @@
             "id": 129936360,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-20T11:53:32Z",
-            "open_issues": 463,
+            "last_commit": "2026-10-21T10:45:44Z",
+            "open_issues": 462,
             "owner": "PennyLaneAI",
             "repo": "pennylane",
-            "stars": 3507,
+            "stars": 3506,
             "topics": [
               "autograd",
               "automatic-differentiation",
@@ -230,7 +230,7 @@
             "open_issues": 2,
             "owner": "softwareQinc",
             "repo": "qpp",
-            "stars": 675,
+            "stars": 676,
             "topics": [
               "c-plus-plus",
               "cpp",
@@ -383,7 +383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T12:01:27.354Z",
+    "last_updated": "2026-10-21T12:16:46.044Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome quantum computing learning and developing resources.",
@@ -392,10 +392,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2024-07-24T23:26:58Z",
-      "open_issues": 37,
+      "open_issues": 38,
       "owner": "desireevl",
       "repo": "awesome-quantum-computing",
-      "stars": 3284,
+      "stars": 3285,
       "topics": [
         "awesome",
         "awesome-list",
