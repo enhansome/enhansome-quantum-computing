@@ -19,7 +19,7 @@
             "open_issues": 22,
             "owner": "microsoft",
             "repo": "QuantumKatas",
-            "stars": 4916,
+            "stars": 4915,
             "topics": [
               "coding-kata",
               "hacktoberfest",
@@ -76,11 +76,11 @@
             "id": 114306758,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-28T01:26:37Z",
-            "open_issues": 132,
+            "last_commit": "2026-10-28T22:35:23Z",
+            "open_issues": 129,
             "owner": "quantumlib",
             "repo": "Cirq",
-            "stars": 5093,
+            "stars": 5095,
             "topics": [
               "algorithms",
               "api",
@@ -118,11 +118,11 @@
             "id": 129936360,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-28T12:00:47Z",
-            "open_issues": 466,
+            "last_commit": "2026-10-29T13:27:27Z",
+            "open_issues": 461,
             "owner": "PennyLaneAI",
             "repo": "pennylane",
-            "stars": 3508,
+            "stars": 3509,
             "topics": [
               "autograd",
               "automatic-differentiation",
@@ -226,7 +226,7 @@
             "id": 17992615,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-28T13:09:36Z",
+            "last_commit": "2026-10-29T12:50:30Z",
             "open_issues": 1,
             "owner": "softwareQinc",
             "repo": "qpp",
@@ -383,7 +383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T13:28:13.524Z",
+    "last_updated": "2026-10-29T13:38:20.629Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome quantum computing learning and developing resources.",
