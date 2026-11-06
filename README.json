@@ -76,11 +76,11 @@
             "id": 114306758,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-05T02:32:26Z",
-            "open_issues": 119,
+            "last_commit": "2026-11-06T03:49:19Z",
+            "open_issues": 118,
             "owner": "quantumlib",
             "repo": "Cirq",
-            "stars": 5101,
+            "stars": 5100,
             "topics": [
               "algorithms",
               "api",
@@ -118,8 +118,8 @@
             "id": 129936360,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-05T14:33:01Z",
-            "open_issues": 468,
+            "last_commit": "2026-11-06T14:28:14Z",
+            "open_issues": 470,
             "owner": "PennyLaneAI",
             "repo": "pennylane",
             "stars": 3519,
@@ -162,7 +162,7 @@
             "open_issues": 247,
             "owner": "rigetti",
             "repo": "pyquil",
-            "stars": 1500,
+            "stars": 1501,
             "topics": [
               "forest",
               "quantum-computing",
@@ -188,7 +188,7 @@
             "open_issues": 103,
             "owner": "AgnostiqHQ",
             "repo": "covalent",
-            "stars": 868,
+            "stars": 869,
             "topics": [
               "covalent",
               "data-pipeline",
@@ -383,7 +383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T14:54:58.275Z",
+    "last_updated": "2026-11-06T14:32:42.214Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome quantum computing learning and developing resources.",
