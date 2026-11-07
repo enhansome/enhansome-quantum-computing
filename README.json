@@ -19,7 +19,7 @@
             "open_issues": 22,
             "owner": "microsoft",
             "repo": "QuantumKatas",
-            "stars": 4921,
+            "stars": 4922,
             "topics": [
               "coding-kata",
               "hacktoberfest",
@@ -48,7 +48,7 @@
             "open_issues": 0,
             "owner": "Qiskit",
             "repo": "qiskit-tutorials",
-            "stars": 2544,
+            "stars": 2545,
             "topics": [
               "qiskit",
               "quantum-computing",
@@ -77,7 +77,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-06T03:49:19Z",
-            "open_issues": 118,
+            "open_issues": 119,
             "owner": "quantumlib",
             "repo": "Cirq",
             "stars": 5100,
@@ -118,11 +118,11 @@
             "id": 129936360,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T14:28:14Z",
-            "open_issues": 470,
+            "last_commit": "2026-11-07T05:10:46Z",
+            "open_issues": 489,
             "owner": "PennyLaneAI",
             "repo": "pennylane",
-            "stars": 3519,
+            "stars": 3523,
             "topics": [
               "autograd",
               "automatic-differentiation",
@@ -230,7 +230,7 @@
             "open_issues": 2,
             "owner": "softwareQinc",
             "repo": "qpp",
-            "stars": 678,
+            "stars": 679,
             "topics": [
               "c-plus-plus",
               "cpp",
@@ -383,7 +383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T14:32:42.214Z",
+    "last_updated": "2026-11-07T13:28:26.210Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome quantum computing learning and developing resources.",
@@ -395,7 +395,7 @@
       "open_issues": 38,
       "owner": "desireevl",
       "repo": "awesome-quantum-computing",
-      "stars": 3299,
+      "stars": 3300,
       "topics": [
         "awesome",
         "awesome-list",
