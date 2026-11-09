@@ -19,7 +19,7 @@
             "open_issues": 22,
             "owner": "microsoft",
             "repo": "QuantumKatas",
-            "stars": 4922,
+            "stars": 4920,
             "topics": [
               "coding-kata",
               "hacktoberfest",
@@ -48,7 +48,7 @@
             "open_issues": 0,
             "owner": "Qiskit",
             "repo": "qiskit-tutorials",
-            "stars": 2545,
+            "stars": 2544,
             "topics": [
               "qiskit",
               "quantum-computing",
@@ -76,11 +76,11 @@
             "id": 114306758,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T03:49:19Z",
-            "open_issues": 121,
+            "last_commit": "2026-11-09T06:15:38Z",
+            "open_issues": 125,
             "owner": "quantumlib",
             "repo": "Cirq",
-            "stars": 5099,
+            "stars": 5098,
             "topics": [
               "algorithms",
               "api",
@@ -118,8 +118,8 @@
             "id": 129936360,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-07T17:55:22Z",
-            "open_issues": 490,
+            "last_commit": "2026-11-09T16:44:55Z",
+            "open_issues": 493,
             "owner": "PennyLaneAI",
             "repo": "pennylane",
             "stars": 3524,
@@ -281,7 +281,7 @@
             "open_issues": 4,
             "owner": "tequilahub",
             "repo": "tequila",
-            "stars": 443,
+            "stars": 441,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:34.360Z"
@@ -373,7 +373,7 @@
             "open_issues": 22,
             "owner": "LSaldyt",
             "repo": "Qurry",
-            "stars": 31,
+            "stars": 30,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:34.360Z"
@@ -383,7 +383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T13:48:06.553Z",
+    "last_updated": "2026-11-09T16:47:46.590Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome quantum computing learning and developing resources.",
