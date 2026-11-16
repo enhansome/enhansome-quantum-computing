@@ -80,7 +80,7 @@
             "open_issues": 125,
             "owner": "quantumlib",
             "repo": "Cirq",
-            "stars": 5102,
+            "stars": 5103,
             "topics": [
               "algorithms",
               "api",
@@ -118,11 +118,11 @@
             "id": 129936360,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T05:10:39Z",
-            "open_issues": 507,
+            "last_commit": "2026-11-16T16:19:53Z",
+            "open_issues": 499,
             "owner": "PennyLaneAI",
             "repo": "pennylane",
-            "stars": 3529,
+            "stars": 3531,
             "topics": [
               "autograd",
               "automatic-differentiation",
@@ -162,7 +162,7 @@
             "open_issues": 249,
             "owner": "rigetti",
             "repo": "pyquil",
-            "stars": 1499,
+            "stars": 1500,
             "topics": [
               "forest",
               "quantum-computing",
@@ -226,7 +226,7 @@
             "id": 17992615,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-04T11:46:53Z",
+            "last_commit": "2026-11-16T15:37:48Z",
             "open_issues": 2,
             "owner": "softwareQinc",
             "repo": "qpp",
@@ -281,7 +281,7 @@
             "open_issues": 5,
             "owner": "tequilahub",
             "repo": "tequila",
-            "stars": 442,
+            "stars": 443,
             "topics": []
           },
           "first_seen": "2026-08-28T18:58:34.360Z"
@@ -383,7 +383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T14:15:24.829Z",
+    "last_updated": "2026-11-16T16:19:59.321Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome quantum computing learning and developing resources.",
@@ -392,10 +392,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2024-07-24T23:26:58Z",
-      "open_issues": 36,
+      "open_issues": 37,
       "owner": "desireevl",
       "repo": "awesome-quantum-computing",
-      "stars": 3302,
+      "stars": 3303,
       "topics": [
         "awesome",
         "awesome-list",
