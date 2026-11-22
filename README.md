@@ -20,7 +20,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 * [Podcasts](#podcasts)
 * [Content in Non-English Languages](#content-in-non-english-languages)
 
-For further resources related to Open Source Quantum Software Projects, please check out qosf's [repo](https://github.com/qosf/os_quantum_software) ⭐ 2,430 | 🐛 23 | 📅 2026-09-24.
+For further resources related to Open Source Quantum Software Projects, please check out qosf's [repo](https://github.com/qosf/os_quantum_software) ⭐ 2,430 | 🐛 24 | 📅 2026-09-24.
 
 ## Learning
 
@@ -196,4 +196,4 @@ To the extent possible under law, [Desiree Vogt-Lee](https://github.com/desireev
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._

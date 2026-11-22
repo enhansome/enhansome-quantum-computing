@@ -19,7 +19,7 @@
             "open_issues": 22,
             "owner": "microsoft",
             "repo": "QuantumKatas",
-            "stars": 4920,
+            "stars": 4921,
             "topics": [
               "coding-kata",
               "hacktoberfest",
@@ -383,7 +383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T14:54:05.074Z",
+    "last_updated": "2026-11-22T14:50:46.666Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome quantum computing learning and developing resources.",
