@@ -118,8 +118,8 @@
             "id": 129936360,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-26T16:52:06Z",
-            "open_issues": 481,
+            "last_commit": "2026-11-27T16:41:30Z",
+            "open_issues": 484,
             "owner": "PennyLaneAI",
             "repo": "pennylane",
             "stars": 3539,
@@ -383,7 +383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T17:15:18.970Z",
+    "last_updated": "2026-11-27T16:56:34.882Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome quantum computing learning and developing resources.",
@@ -395,7 +395,7 @@
       "open_issues": 35,
       "owner": "desireevl",
       "repo": "awesome-quantum-computing",
-      "stars": 3310,
+      "stars": 3311,
       "topics": [
         "awesome",
         "awesome-list",
